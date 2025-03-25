@@ -26,7 +26,7 @@ export default function Dictionary() {
 
   return (
     <div className="Dictionary">
-      <form onSubmit={search}>
+      <form className="mt-4" onSubmit={search}>
         <input
           type="search"
           placeholder="ie. sunset, happy"
