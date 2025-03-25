@@ -1,0 +1,19 @@
+:root {
+  --main-branding-color: rgba(252, 85, 92);
+}
+
+.Meaning h3 {
+  color: var(--main-branding-color);
+  font-size: 12px;
+  text-align: left;
+}
+
+.Meaning p {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  text-align: left;
+}
+
+.Meaning .example {
+  font-style: italic;
+}

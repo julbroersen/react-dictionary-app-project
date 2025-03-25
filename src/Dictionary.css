@@ -7,7 +7,7 @@
   border-radius: 4px;
   color: var(--main-branding-color);
   font-family: "Itim", cursive;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .search-input::placeholder {
@@ -24,7 +24,7 @@
   border-radius: 4px;
   color: var(--main-branding-color);
   font-family: "Itim", cursive;
-  font-size: 12px;
+  font-size: 14px;
   transition: all 150ms ease-in-out;
 }
 

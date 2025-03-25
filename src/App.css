@@ -16,15 +16,16 @@
 .App h1 {
   color: var(--main-branding-color);
   font-family: "Itim", cursive;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .App footer {
+  color: white;
   font-size: 10px;
 }
 
 .App a {
-  color: var(--main-branding-color);
+  color: white;
   font-weight: bolder;
   text-decoration: none;
 }
