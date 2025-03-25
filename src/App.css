@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url("./images/hero-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+  margin: 30px auto;
+  max-width: 80%;
+  padding: 150px 0;
+}
+
+.App h2 {
+  color: white;
+  font-family: "Itim", cursive;
+  font-size: 14px;
+}
