@@ -1,8 +1,9 @@
 body {
-  background-image: url("./images/hero-image.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  border-radius: 8px;
+  background: linear-gradient(
+    166deg,
+    rgb(196, 109, 176) 0%,
+    rgb(252, 85, 92) 100%
+  );
   margin: 30px auto;
   max-width: 80%;
   padding: 50px 0;
