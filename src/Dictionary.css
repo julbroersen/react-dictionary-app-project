@@ -1,0 +1,30 @@
+:root {
+  --main-branding-color: rgba(252, 85, 92);
+}
+
+.search-input {
+  border: none;
+  border-radius: 4px;
+  color: var(--main-branding-color);
+  font-family: "Itim", cursive;
+  font-size: 12px;
+}
+
+.search-input::placeholder {
+  color: var(--main-branding-color);
+}
+
+.search-button {
+  background: white;
+  border: none;
+  border-radius: 4px;
+  color: var(--main-branding-color);
+  font-family: "Itim", cursive;
+  font-size: 12px;
+  transition: all 150ms ease-in-out;
+}
+
+.search-button:hover {
+  background: var(--main-branding-color);
+  color: white;
+}

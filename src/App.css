@@ -1,3 +1,7 @@
+:root {
+  --main-branding-color: rgba(252, 85, 92);
+}
+
 .App {
   text-align: center;
 }
@@ -7,13 +11,24 @@
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 8px;
+
   margin: 30px auto;
   max-width: 80%;
   padding: 150px 0;
 }
 
-.App h2 {
+.App h1 {
   color: white;
   font-family: "Itim", cursive;
-  font-size: 14px;
+  font-size: 16px;
+}
+
+.App footer {
+  font-size: 10px;
+}
+
+.App a {
+  color: var(--main-branding-color);
+  font-weight: bolder;
+  text-decoration: none;
 }
