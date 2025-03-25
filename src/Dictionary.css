@@ -3,7 +3,7 @@
 }
 
 .search-input {
-  border: none;
+  border: 1px solid var(--main-branding-color);
   border-radius: 4px;
   color: var(--main-branding-color);
   font-family: "Itim", cursive;
@@ -20,7 +20,7 @@
 
 .search-button {
   background: white;
-  border: none;
+  border: 1px solid var(--main-branding-color);
   border-radius: 4px;
   color: var(--main-branding-color);
   font-family: "Itim", cursive;
