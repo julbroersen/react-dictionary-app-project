@@ -4,6 +4,7 @@ body {
     rgb(196, 109, 176) 0%,
     rgb(252, 85, 92) 100%
   );
+  background-repeat: no-repeat;
   margin: 30px auto;
   max-width: 80%;
   padding: 50px 0;

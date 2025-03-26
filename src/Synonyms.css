@@ -1,6 +1,13 @@
-.Synonyms li {
-  font-family: "Poppins", sans-serif;
-  font-size: 12px;
-  list-style: none;
+.Synonyms ul {
+  padding: 0;
   text-align: left;
+}
+
+.Synonyms li {
+  color: gray;
+  display: inline-block;
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
+  list-style: none;
+  padding-right: 10px;
 }
